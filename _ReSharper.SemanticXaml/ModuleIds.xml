@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="0C0D9200-0002-414A-B02B-7F9E2C0BC218" ModuleId="SemanticXaml" />
+  <Module PersistentId="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9" ModuleId="SemanticXaml.Examples" />
+</Modules>
