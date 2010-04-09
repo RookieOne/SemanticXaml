@@ -1,0 +1,10 @@
+C:\Projects\SemanticXaml\SemanticXaml.Tests\bin\Debug\SemanticXaml.Tests.dll
+C:\Projects\SemanticXaml\SemanticXaml.Tests\bin\Debug\SemanticXaml.Tests.pdb
+C:\Projects\SemanticXaml\SemanticXaml.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\SemanticXaml\SemanticXaml.Tests\bin\Debug\SemanticXaml.dll
+C:\Projects\SemanticXaml\SemanticXaml.Tests\bin\Debug\SemanticXaml.pdb
+C:\Projects\SemanticXaml\SemanticXaml.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\SemanticXaml\SemanticXaml.Tests\obj\Debug\SemanticXaml.Tests.Properties.Resources.resources
+C:\Projects\SemanticXaml\SemanticXaml.Tests\obj\Debug\SemanticXaml.Tests.csproj.GenerateResource.Cache
+C:\Projects\SemanticXaml\SemanticXaml.Tests\obj\Debug\SemanticXaml.Tests.dll
+C:\Projects\SemanticXaml\SemanticXaml.Tests\obj\Debug\SemanticXaml.Tests.pdb
