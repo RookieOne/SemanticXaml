@@ -8,20 +8,48 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/f:Window1.xaml.cs" caret="0" fromTop="0" />
-      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/f:Window1.xaml" caret="0" fromTop="0" />
-      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:InverseColorExtensions.cs" caret="128" fromTop="4" />
       <File id="456354D8-C40E-4383-8512-5FFA770AFF9A/f:AssertExtensions.cs" caret="231" fromTop="4" />
-      <File id="456354D8-C40E-4383-8512-5FFA770AFF9A/d:Colors/d:InverseColorTests/f:inverse_color.cs" caret="261" fromTop="6" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Extensions/f:ObjectExtensions.cs" caret="228" fromTop="9" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/f:App.xaml" caret="210" fromTop="2" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:ColorServiceProviderExtensions.cs" caret="881" fromTop="18" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/d:Colors/f:InverseColorExample.xaml.cs" caret="205" fromTop="7" />
+      <File id="456354D8-C40E-4383-8512-5FFA770AFF9A/d:Colors/d:InverseColorTests/f:inverse_color.cs" caret="1112" fromTop="35" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:InverseColorExtensions.cs" caret="186" fromTop="6" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/f:ExampleWindow.xaml" caret="342" fromTop="3" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:InverseColorMarkupExtension.cs" caret="154" fromTop="5" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/d:Colors/f:InverseColorExample.xaml" caret="692" fromTop="8" />
     </RecentFiles>
     <RecentEdits>
-      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:InverseColorExtensions.cs" caret="727" fromTop="23" />
-      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:InverseColorExtensions.cs" caret="727" fromTop="8" />
-      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:InverseColorExtensions.cs" caret="128" fromTop="4" />
-      <File id="456354D8-C40E-4383-8512-5FFA770AFF9A/d:Colors/d:InverseColorTests/f:inverse_color.cs" caret="551" fromTop="12" />
-      <File id="456354D8-C40E-4383-8512-5FFA770AFF9A/f:AssertExtensions.cs" caret="253" fromTop="10" />
-      <File id="456354D8-C40E-4383-8512-5FFA770AFF9A/d:Colors/d:InverseColorTests/f:inverse_color.cs" caret="551" fromTop="12" />
-      <File id="456354D8-C40E-4383-8512-5FFA770AFF9A/d:Colors/d:InverseColorTests/f:inverse_color.cs" caret="328" fromTop="12" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:InverseColorMarkupExtension.cs" caret="588" fromTop="10" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:ColorServiceProviderExtensions.cs" caret="1240" fromTop="14" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:InverseColorMarkupExtension.cs" caret="588" fromTop="6" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:ColorServiceProviderExtensions.cs" caret="1240" fromTop="23" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:ColorServiceProviderExtensions.cs" caret="1240" fromTop="19" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Extensions/f:ObjectExtensions.cs" caret="238" fromTop="8" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:ColorServiceProviderExtensions.cs" caret="1240" fromTop="23" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:ColorServiceProviderExtensions.cs" caret="781" fromTop="23" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:ColorServiceProviderExtensions.cs" caret="373" fromTop="12" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Extensions/f:ObjectExtensions.cs" caret="347" fromTop="12" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:InverseColorMarkupExtension.cs" caret="588" fromTop="22" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/d:Colors/f:InverseColorExample.xaml.cs" caret="248" fromTop="11" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/d:Colors/f:InverseColorExample.xaml.cs" caret="248" fromTop="13" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/d:Colors/f:InverseColorExample.xaml.cs" caret="248" fromTop="4" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/f:ExampleWindow.xaml" caret="342" fromTop="3" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/f:App.xaml" caret="210" fromTop="2" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/d:Colors/f:InverseColorExample.xaml.cs" caret="248" fromTop="10" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/d:Colors/f:InverseColorExample.xaml" caret="1331" fromTop="17" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:ColorServiceProviderExtensions.cs" caret="881" fromTop="18" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/d:Colors/f:InverseColorExample.xaml" caret="700" fromTop="9" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/d:Colors/f:InverseColorExample.xaml" caret="923" fromTop="16" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/d:Colors/f:InverseColorExample.xaml" caret="922" fromTop="15" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/d:Colors/f:InverseColorExample.xaml" caret="662" fromTop="8" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/d:Colors/f:InverseColorExample.xaml" caret="456" fromTop="4" />
+      <File id="456354D8-C40E-4383-8512-5FFA770AFF9A/d:Colors/d:InverseColorTests/f:inverse_color.cs" caret="315" fromTop="8" />
+      <File id="456354D8-C40E-4383-8512-5FFA770AFF9A/d:Colors/d:InverseColorTests/f:inverse_color.cs" caret="710" fromTop="17" />
+      <File id="456354D8-C40E-4383-8512-5FFA770AFF9A/d:Colors/d:InverseColorTests/f:inverse_color.cs" caret="1112" fromTop="20" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:InverseColorMarkupExtension.cs" caret="392" fromTop="10" />
+      <File id="0C0D9200-0002-414A-B02B-7F9E2C0BC218/d:Colors/f:InverseColorMarkupExtension.cs" caret="154" fromTop="5" />
+      <File id="D09F4F45-06A1-4A04-9CCD-27057D8FD9B9/d:Colors/f:InverseColorExample.xaml" caret="1201" fromTop="13" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -36,31 +64,51 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="public" priority="1" />
-      <Item value="void" priority="1" />
-      <Item value="var" priority="1" />
-      <Item value="Colors" priority="0" />
+      <Item value="public" priority="4" />
+      <Item value="void" priority="2" />
+      <Item value="var" priority="4" />
+      <Item value="Colors" priority="3" />
       <Item value="originalColor" priority="0" />
-      <Item value="static" priority="0" />
-      <Item value="this" priority="0" />
+      <Item value="static" priority="1" />
+      <Item value="this" priority="2" />
       <Item value="T`0" priority="1" />
       <Item value="expected" priority="0" />
       <Item value="actual" priority="0" />
-      <Item value="inverseColor" priority="0" />
-      <Item value="byte" priority="0" />
+      <Item value="inverseColor" priority="1" />
+      <Item value="byte" priority="1" />
+      <Item value="IServiceProvider`0" priority="0" />
+      <Item value="if" priority="1" />
+      <Item value="brush" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="color" priority="0" />
+      <Item value="ListBox`0" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="ObservableCollection&lt;Color&gt;" priority="0" />
+      <Item value="Color`0" priority="2" />
+      <Item value="DataContext" priority="0" />
+      <Item value="element" priority="0" />
+      <Item value="Of" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.Media.Color">
-      <Item value="FromRgb`0" priority="0" />
+      <Item value="FromRgb`0" priority="1" />
+      <Item value="FromArgb`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Media.Color">
-      <Item value="GetInverse`0" priority="0" />
+      <Item value="GetInverse`0" priority="1" />
       <Item value="R" priority="0" />
+      <Item value="A" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
       <Item value="AreEqual`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Byte">
-      <Item value="ShouldBe`1" priority="0" />
+      <Item value="ShouldBe`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IServiceProvider">
+      <Item value="GetBackgroundColor`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.ObservableCollection`1">
+      <Item value="Add`0" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

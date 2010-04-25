@@ -16,3 +16,5 @@ C:\Projects\SemanticXaml\SemanticXaml.Examples\obj\Debug\SemanticXaml.Examples_M
 C:\Projects\SemanticXaml\SemanticXaml.Examples\obj\Debug\ExampleWindow.baml
 C:\Projects\SemanticXaml\SemanticXaml.Examples\bin\Debug\SemanticXaml.dll
 C:\Projects\SemanticXaml\SemanticXaml.Examples\bin\Debug\SemanticXaml.pdb
+C:\Projects\SemanticXaml\SemanticXaml.Examples\obj\Debug\Colors\LightenColorExample.baml
+C:\Projects\SemanticXaml\SemanticXaml.Examples\obj\Debug\Colors\LightenColorExample.g.cs

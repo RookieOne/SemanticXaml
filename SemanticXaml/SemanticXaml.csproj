@@ -53,6 +53,8 @@
     <Compile Include="Colors\ColorServiceProviderExtensions.cs" />
     <Compile Include="Colors\InverseColorExtensions.cs" />
     <Compile Include="Colors\InverseColorMarkupExtension.cs" />
+    <Compile Include="Colors\LightenColorExtension.cs" />
+    <Compile Include="Colors\LightenMarkupExtension.cs" />
     <Compile Include="Extensions\ObjectExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
